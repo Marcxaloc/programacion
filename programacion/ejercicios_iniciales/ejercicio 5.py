@@ -1,0 +1,7 @@
+valor1=input( "dime un dia de la semana")
+valor2=input( "dime otro dia de la semana")
+valor3=input( "dime otro dia de la semana")
+valor4=input( "dime otro dia de la semana")
+valor5=input( "dime otro dia de la semana")
+print(valor1,valor2,valor3,valor4,valor5)
+print(valor1,",",valor2,",",valor3,",",valor4,",",valor5)
