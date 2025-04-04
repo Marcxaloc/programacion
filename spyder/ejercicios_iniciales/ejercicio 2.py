@@ -1,0 +1,6 @@
+valor=int(input("introduce un numero: "))
+print("el valor introducuido es",valor)
+valor2=(input("escribe una letra: "))
+print("el valor introducido es la letra: ",valor2)
+valor3=float(input("introduce un numero decimal: "))
+print("el valor introducido es el numero: ",valor3)
